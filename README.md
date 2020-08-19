@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![gif](https://media.giphy.com/media/tptFQ8QAJYYvu/giphy.gif)
+![gif](https://media.giphy.com/media/w4AofBqMJ7yk8/giphy.gif)
 
 <!--
 **ThiagoLozano/ThiagoLozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
