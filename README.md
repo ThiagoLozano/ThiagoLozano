@@ -6,9 +6,8 @@
 
 ## My Contacts
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagolozano58@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![CodeWars](https://img.shields.io/badge/-CODEWARS-EB802F?style=for-the-badge&logo=codwars&logoColor=white)](https://www.codewars.com)
-[![Facebook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lozano-a88055174/)
+[![CodeWars](https://img.shields.io/badge/-CODEWARS-EB802F?style=for-the-badge&logo=codwars&logoColor=white)](https://www.codewars.com/users/ThiagoLozano)
 
 
 ### Languages I use
