@@ -27,4 +27,4 @@
 
 ### Some of my favorite open source projects
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-444444?style=flat&logo=pycharm)](https://github.com/microsoft/vscode)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-444444?style=flat&logo=pycharm)](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
