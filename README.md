@@ -10,22 +10,20 @@
 [![CodeWars](https://img.shields.io/badge/-CODEWARS-EB802F?style=for-the-badge&logo=codwars&logoColor=white)](https://www.codewars.com/users/ThiagoLozano)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511998959958!)
 
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https:!)](https://api.whatsapp.com/send?phone=5511998959958!)
-
 
 ### Languages I use
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=F05032)
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
 
 
 ### Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Trello](https://img.shields.io/badge/-Trello-222222?style=flat&logo=trello&logoColor=181717)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-222222?style=flat&logo=trello&logoColor=007ACC)
 ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat-square&logo=mysql&logoColor=white)
 
 
