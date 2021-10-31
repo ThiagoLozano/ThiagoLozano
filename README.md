@@ -1,13 +1,6 @@
-## My profile overview:
-![GitSta](https://github-readme-stats.vercel.app/api?username=thiagolozano&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
 ## My Contacts
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagolozano58@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lozano-a88055174/)
-[![CodeWars](https://img.shields.io/badge/-CODEWARS-EB802F?style=for-the-badge&logo=codwars&logoColor=white)](https://www.codewars.com/users/ThiagoLozano)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511998959958!)
-
 
 ### Languages I use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
