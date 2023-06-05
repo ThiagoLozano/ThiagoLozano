@@ -1,30 +1,59 @@
-![Banner](https://github.com/ThiagoLozano/ThiagoLozano/blob/master/banner.png)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3573a7&height=120&section=header"/>
 
-## My Contacts
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagolozano58@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lozano-a88055174/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fbfbfb&size=35&center=true&vCenter=true&width=1000&lines=HELLO!+My+name+is+Thiago+Lozano;I'm+RPA+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### Languages I use
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=F05032)
-![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql)
+### Contacts
+<div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/thiago-lozano-a88055174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thiagolozano58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-### Plataforms I use
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-222222?style=flat&logo=windows&logoColor=blue)
+### Languages
+<div style="display: inline_block"><br>
+  <img align="center" alt="thiago" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
+ <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-### Databases I use
-![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat-square&logo=mysql&logoColor=white)
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ 
+</div>
 
-### Some of the technologies I have worked with
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-222222?style=flat&logo=trello&logoColor=007ACC)
-![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=amazon&logoColor=yellow)
-![Azure](https://img.shields.io/badge/-AZURE-222222?style=flat&logo=microsoft&logoColor=blue)
+### Tools
+<div style="display: inline_block"><br>
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+  
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+  
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+  
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 
-### Some of my favorite open source projects
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-222222?style=flat&logo=pycharm)](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
-![Notepad++](https://img.shields.io/badge/-Notepad++-222222?style=flat&logo=notepad)
+</div>
+
+### O.S
+<div style="display: inline_block"><br>
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  
+  <img align="center" alt="thiago" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ 
+</div>
+
+### Statistics
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoLozano&show_icons=true&count_private=true&hide_border=true&title_color=3573a7&icon_color=3573a7&text_color=fbfbfb&bg_color=0d1117" alt="Thiago Lozano github stats"/>
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLozano&layout=compact&hide_border=true&title_color=3573a7&text_color=fbfbfb&bg_color=0a0908" />
+</div>
