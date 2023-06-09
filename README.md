@@ -53,7 +53,7 @@
 
 ### Statistics
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoLozano&show_icons=true&count_private=true&hide_border=true&title_color=3573a7&icon_color=3573a7&text_color=fbfbfb&bg_color=0d1117" alt="Thiago Lozano github stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoLozano" alt="Thiago Lozano github stats"/>
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLozano&layout=compact&hide_border=true&title_color=3573a7&text_color=fbfbfb&bg_color=0a0908" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLozano" />
 </div>
