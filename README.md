@@ -50,10 +50,3 @@
   <img align="center" alt="Linux_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  
 </div>
-
-### Statistics
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoLozano" alt="Thiago Lozano github stats"/>
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLozano" />
-</div>
